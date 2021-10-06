@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 06 Oct 2021 08:55:54 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코끼리와 나비
+			(2018) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=58545</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=58545</guid>
+            <pubDate>Wed, 06 Oct 2021 08:55:38 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="title">
+			<a href="/movie/info/?movie_id=58545">코끼리와 나비</a>
+			<span class="year">(2018)</span>
+		</div>
+		<div class="rating_area">
+			<div class="rating"><div class="rating_on" style="width:60%"></div></div>
+			<span class="num">6</span>
+		</div>
+		<div class="review_txt">서로 어르고 달래는 재미와 피로</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/0914/58545_61400774a5dd9[F230,329].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[화이트데이: 부서진 결계
+			(2019) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=58205</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=58205</guid>
+            <pubDate>Wed, 06 Oct 2021 08:55:38 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="title">
+			<a href="/movie/info/?movie_id=58205">화이트데이: 부서진 결계</a>
+			<span class="year">(2019)</span>
+		</div>
+		<div class="rating_area">
+			<div class="rating"><div class="rating_on" style="width:20%"></div></div>
+			<span class="num">2</span>
+		</div>
+		<div class="review_txt">궤멸의 비명</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1006/58205_615d10357940f[F230,329].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[F20
+			(2021) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=58535</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=58535</guid>
+            <pubDate>Wed, 06 Oct 2021 08:55:38 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="title">
+			<a href="/movie/info/?movie_id=58535">F20</a>
+			<span class="year">(2021)</span>
+		</div>
+		<div class="rating_area">
+			<div class="rating"><div class="rating_on" style="width:40%"></div></div>
+			<span class="num">4</span>
+		</div>
+		<div class="review_txt">의욕 과잉이 빚어내는 것들</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/0929/09_55_03__6153b9675e088[F230,329].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부니베어: 애들이 줄었어요
+			(2018) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=58382</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=58382</guid>
+            <pubDate>Wed, 06 Oct 2021 08:55:38 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="title">
+			<a href="/movie/info/?movie_id=58382">부니베어: 애들이 줄었어요</a>
+			<span class="year">(2018)</span>
+		</div>
+		<div class="rating_area">
+			<div class="rating"><div class="rating_on" style="width:40%"></div></div>
+			<span class="num">4</span>
+		</div>
+		<div class="review_txt">제자리걸음 시리즈</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/0831/58382_612ded02ebf10[F230,329].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다함께 여름!
+			(2020) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=58574</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=58574</guid>
+            <pubDate>Wed, 06 Oct 2021 08:55:38 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="title">
+			<a href="/movie/info/?movie_id=58574">다함께 여름!</a>
+			<span class="year">(2020)</span>
+		</div>
+		<div class="rating_area">
+			<div class="rating"><div class="rating_on" style="width:60%"></div></div>
+			<span class="num">6</span>
+		</div>
+		<div class="review_txt">부조화의 조화, 엉큼하나 솔직하게</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize//noimg[F230,329].jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
