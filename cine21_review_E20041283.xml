@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>씨네21 ─ 리뷰 ─ 이동진</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 07 Oct 2021 05:38:23 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사돈의 팔촌
+			(2015)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=47720</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=47720</guid>
+            <pubDate>Thu, 07 Oct 2021 05:38:20 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="title">
+			<a href="/movie/info/?movie_id=47720">사돈의 팔촌</a>
+			<span class="year">(2015)</span>
+		</div>
+		<div class="rating_area">
+			<div class="rating"><div class="rating_on" style="width:60%"></div></div>
+			<span class="num">6</span>
+		</div>
+		<div class="review_txt">이런 소재를 이렇게 풋풋하게</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2016/0412/15_53_33__570c9b6d1d87e[F230,329].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[싱 스트리트
+			(2016)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=47766</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=47766</guid>
+            <pubDate>Thu, 07 Oct 2021 05:38:20 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="title">
+			<a href="/movie/info/?movie_id=47766">싱 스트리트</a>
+			<span class="year">(2016)</span>
+		</div>
+		<div class="rating_area">
+			<div class="rating"><div class="rating_on" style="width:60%"></div></div>
+			<span class="num">6</span>
+		</div>
+		<div class="review_txt">사랑스러운 범작. 사내아이들에게 록밴드란</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2016/0422/12_37_55__57199c938c577[F230,329].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엑스맨: 아포칼립스
+			(2016)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=46688</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=46688</guid>
+            <pubDate>Thu, 07 Oct 2021 05:38:20 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="title">
+			<a href="/movie/info/?movie_id=46688">엑스맨: 아포칼립스</a>
+			<span class="year">(2016)</span>
+		</div>
+		<div class="rating_area">
+			<div class="rating"><div class="rating_on" style="width:70%"></div></div>
+			<span class="num">7</span>
+		</div>
+		<div class="review_txt">성실하고 세심한 모범생 블록버스터</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2016/0511/13_42_27__5732b83373914[F230,329].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아가씨
+			(2015)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=43311</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=43311</guid>
+            <pubDate>Thu, 07 Oct 2021 05:38:20 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="title">
+			<a href="/movie/info/?movie_id=43311">아가씨</a>
+			<span class="year">(2015)</span>
+		</div>
+		<div class="rating_area">
+			<div class="rating"><div class="rating_on" style="width:80%"></div></div>
+			<span class="num">8</span>
+		</div>
+		<div class="review_txt">검은 유머와 회색 플롯 사이로 경쾌하게 질주하는 붉은 감정</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2016/0523/15_35_43__5742a4bf8bd9f[F230,329].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[클랜
+			(2015)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=46022</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=46022</guid>
+            <pubDate>Thu, 07 Oct 2021 05:38:20 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="title">
+			<a href="/movie/info/?movie_id=46022">클랜</a>
+			<span class="year">(2015)</span>
+		</div>
+		<div class="rating_area">
+			<div class="rating"><div class="rating_on" style="width:80%"></div></div>
+			<span class="num">8</span>
+		</div>
+		<div class="review_txt">악마적인 인물들도 종종 주변에선 호인으로 여겨진다지</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2016/0415/10_03_35__57103de72c109[F230,329].jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
