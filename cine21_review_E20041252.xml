@@ -4,93 +4,93 @@
         <title>씨네21 ─ 리뷰 ─ 박평식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 05:38:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 17:43:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[코끼리와 나비
-			(2018)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=58545</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=58545</guid>
-            <pubDate>Wed, 06 Oct 2021 08:55:38 GMT</pubDate>
+            <title><![CDATA[킬링 오브 투 러버스
+			(2020)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=58029</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=58029</guid>
+            <pubDate>Fri, 08 Oct 2021 17:43:44 GMT</pubDate>
             <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=58545">코끼리와 나비</a>
-			<span class="year">(2018)</span>
+			<a href="/movie/info/?movie_id=58029">킬링 오브 투 러버스</a>
+			<span class="year">(2020)</span>
 		</div>
 		<div class="rating_area">
-			<div class="rating"><div class="rating_on" style="width:60%"></div></div>
-			<span class="num">6</span>
+			<div class="rating"><div class="rating_on" style="width:70%"></div></div>
+			<span class="num">7</span>
 		</div>
-		<div class="review_txt">서로 어르고 달래는 재미와 피로</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/0914/58545_61400774a5dd9[F230,329].jpg" length="0" type="image/jpg"/>
+		<div class="review_txt">프레임과 사운드로 해설하는 ‘무기력한 분노’</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/0929/10_43_44__6153c4d06801a[F230,329].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[화이트데이: 부서진 결계
-			(2019)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=58205</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=58205</guid>
-            <pubDate>Wed, 06 Oct 2021 08:55:38 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=58205">화이트데이: 부서진 결계</a>
-			<span class="year">(2019)</span>
-		</div>
-		<div class="rating_area">
-			<div class="rating"><div class="rating_on" style="width:20%"></div></div>
-			<span class="num">2</span>
-		</div>
-		<div class="review_txt">궤멸의 비명</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1006/58205_615d10357940f[F230,329].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[F20
+            <title><![CDATA[졸트
 			(2021)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=58535</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=58535</guid>
-            <pubDate>Wed, 06 Oct 2021 08:55:38 GMT</pubDate>
+            <link>http://m.cine21.com/movie/info/?movie_id=58363</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=58363</guid>
+            <pubDate>Fri, 08 Oct 2021 17:43:44 GMT</pubDate>
             <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=58535">F20</a>
+			<a href="/movie/info/?movie_id=58363">졸트</a>
 			<span class="year">(2021)</span>
 		</div>
 		<div class="rating_area">
 			<div class="rating"><div class="rating_on" style="width:40%"></div></div>
 			<span class="num">4</span>
 		</div>
-		<div class="review_txt">의욕 과잉이 빚어내는 것들</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/0929/09_55_03__6153b9675e088[F230,329].jpg" length="0" type="image/jpg"/>
+		<div class="review_txt">충분히 뒤죽박죽</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/0929/09_35_41__6153b4dd475b2[F230,329].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[부니베어: 애들이 줄었어요
-			(2018)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=58382</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=58382</guid>
-            <pubDate>Wed, 06 Oct 2021 08:55:38 GMT</pubDate>
+            <title><![CDATA[실: 인연의 시작
+			(2020)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=56797</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=56797</guid>
+            <pubDate>Fri, 08 Oct 2021 17:43:44 GMT</pubDate>
             <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=58382">부니베어: 애들이 줄었어요</a>
-			<span class="year">(2018)</span>
+			<a href="/movie/info/?movie_id=56797">실: 인연의 시작</a>
+			<span class="year">(2020)</span>
 		</div>
 		<div class="rating_area">
 			<div class="rating"><div class="rating_on" style="width:40%"></div></div>
 			<span class="num">4</span>
 		</div>
-		<div class="review_txt">제자리걸음 시리즈</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/0831/58382_612ded02ebf10[F230,329].jpg" length="0" type="image/jpg"/>
+		<div class="review_txt">무리하게 꿰맞추려니</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/0914/56797_6140021c5a6ec[F230,329].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다함께 여름!
+            <title><![CDATA[십개월의 미래
 			(2020)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=58574</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=58574</guid>
-            <pubDate>Wed, 06 Oct 2021 08:55:38 GMT</pubDate>
+            <link>http://m.cine21.com/movie/info/?movie_id=57695</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=57695</guid>
+            <pubDate>Fri, 08 Oct 2021 17:43:44 GMT</pubDate>
             <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=58574">다함께 여름!</a>
+			<a href="/movie/info/?movie_id=57695">십개월의 미래</a>
 			<span class="year">(2020)</span>
 		</div>
 		<div class="rating_area">
 			<div class="rating"><div class="rating_on" style="width:60%"></div></div>
 			<span class="num">6</span>
 		</div>
-		<div class="review_txt">부조화의 조화, 엉큼하나 솔직하게</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize//noimg[F230,329].jpg" length="0" type="image/jpg"/>
+		<div class="review_txt">코믹 호러와 휴먼 다큐가 동업하면</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1007/14_24_01__615e847147241[F230,329].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[베놈 2: 렛 데어 비 카니지
+			(2021)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=58020</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=58020</guid>
+            <pubDate>Fri, 08 Oct 2021 17:43:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="title">
+			<a href="/movie/info/?movie_id=58020">베놈 2: 렛 데어 비 카니지</a>
+			<span class="year">(2021)</span>
+		</div>
+		<div class="rating_area">
+			<div class="rating"><div class="rating_on" style="width:40%"></div></div>
+			<span class="num">4</span>
+		</div>
+		<div class="review_txt">좋은 건 쿠키영상, 더 좋은 건 러닝타임</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/0929/15_18_24__6154053074044[F230,329].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
