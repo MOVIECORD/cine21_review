@@ -4,93 +4,93 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Oct 2021 17:43:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 05:39:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[첫눈이 사라졌다
-			(2020) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=58302</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=58302</guid>
-            <pubDate>Sat, 16 Oct 2021 05:38:19 GMT</pubDate>
+            <title><![CDATA[스티브 맥퀸: 더 맨 앤 르망
+			(2015) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=58602</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=58602</guid>
+            <pubDate>Sun, 24 Oct 2021 05:38:10 GMT</pubDate>
             <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=58302">첫눈이 사라졌다</a>
-			<span class="year">(2020)</span>
+			<a href="/movie/info/?movie_id=58602">스티브 맥퀸: 더 맨 앤 르망</a>
+			<span class="year">(2015)</span>
 		</div>
 		<div class="rating_area">
-			<div class="rating"><div class="rating_on" style="width:70%"></div></div>
-			<span class="num">7</span>
+			<div class="rating"><div class="rating_on" style="width:60%"></div></div>
+			<span class="num">6</span>
 		</div>
-		<div class="review_txt">갈피마다 통증과 열망이 스며든 우화집</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/0930/10_36_40__615514a867441[F230,329].jpg" length="0" type="image/jpg"/>
+		<div class="review_txt">야심과 긍지와 오만을 엔진으로</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1018/13_12_57__616cf449ebf87[F230,329].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[울림의 탄생
+            <title><![CDATA[당신은 믿지 않겠지만
 			(2020) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=58576</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=58576</guid>
-            <pubDate>Sat, 16 Oct 2021 05:38:19 GMT</pubDate>
+            <link>http://m.cine21.com/movie/info/?movie_id=56613</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=56613</guid>
+            <pubDate>Sun, 24 Oct 2021 05:38:10 GMT</pubDate>
             <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=58576">울림의 탄생</a>
+			<a href="/movie/info/?movie_id=56613">당신은 믿지 않겠지만</a>
 			<span class="year">(2020)</span>
 		</div>
 		<div class="rating_area">
 			<div class="rating"><div class="rating_on" style="width:60%"></div></div>
 			<span class="num">6</span>
 		</div>
-		<div class="review_txt">소리의 근원을 찾아 여기까지</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/0930/15_36_09__61555ad993641[F230,329].jpg" length="0" type="image/jpg"/>
+		<div class="review_txt">날개 돋는 소리에 귀를 기울이면</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/0929/09_46_00__6153b74860dab[F230,329].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사상
-			(2020) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=57694</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=57694</guid>
-            <pubDate>Sat, 16 Oct 2021 05:38:19 GMT</pubDate>
+            <title><![CDATA[그림자꽃
+			(2019) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=58601</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=58601</guid>
+            <pubDate>Sun, 24 Oct 2021 05:38:10 GMT</pubDate>
             <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=57694">사상</a>
-			<span class="year">(2020)</span>
+			<a href="/movie/info/?movie_id=58601">그림자꽃</a>
+			<span class="year">(2019)</span>
 		</div>
 		<div class="rating_area">
-			<div class="rating"><div class="rating_on" style="width:50%"></div></div>
-			<span class="num">5</span>
+			<div class="rating"><div class="rating_on" style="width:60%"></div></div>
+			<span class="num">6</span>
 		</div>
-		<div class="review_txt">취사선택의 어려움</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/0924/57694_614d6c8725282[F230,329].jpg" length="0" type="image/jpg"/>
+		<div class="review_txt">탈북자가 아닌 평양 시민의 절규</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1022/10_59_02__61721ae636aac[F230,329].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[경고
+            <title><![CDATA[바람아 안개를 걷어가다오
 			(2020) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=58544</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=58544</guid>
-            <pubDate>Sat, 16 Oct 2021 05:38:19 GMT</pubDate>
+            <link>http://m.cine21.com/movie/info/?movie_id=57137</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=57137</guid>
+            <pubDate>Sun, 24 Oct 2021 05:38:10 GMT</pubDate>
             <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=58544">경고</a>
+			<a href="/movie/info/?movie_id=57137">바람아 안개를 걷어가다오</a>
 			<span class="year">(2020)</span>
 		</div>
 		<div class="rating_area">
 			<div class="rating"><div class="rating_on" style="width:60%"></div></div>
 			<span class="num">6</span>
 		</div>
-		<div class="review_txt">물고 물리는 악몽의 토끼굴</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/0929/15_27_50__615407669f48f[F230,329].jpg" length="0" type="image/jpg"/>
+		<div class="review_txt">살갑고도 앙큼한 데뷔작</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1013/57137_616643e6cc374[F230,329].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[휴가
-			(2020) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=57196</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=57196</guid>
-            <pubDate>Sat, 16 Oct 2021 05:38:19 GMT</pubDate>
+            <title><![CDATA[퍼펙트 스틸
+			(2021) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=58558</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=58558</guid>
+            <pubDate>Sun, 24 Oct 2021 05:38:10 GMT</pubDate>
             <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=57196">휴가</a>
-			<span class="year">(2020)</span>
+			<a href="/movie/info/?movie_id=58558">퍼펙트 스틸</a>
+			<span class="year">(2021)</span>
 		</div>
 		<div class="rating_area">
-			<div class="rating"><div class="rating_on" style="width:60%"></div></div>
-			<span class="num">6</span>
+			<div class="rating"><div class="rating_on" style="width:40%"></div></div>
+			<span class="num">4</span>
 		</div>
-		<div class="review_txt">날마다 휴일, 밤마다 뜬눈</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1006/13_55_46__615d2c5262c7f[F230,329].jpg" length="0" type="image/jpg"/>
+		<div class="review_txt">목욕탕에서 손가락만 씻기</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1008/58558_615ffc8f07d13[F230,329].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사돈의 팔촌
