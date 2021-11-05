@@ -4,93 +4,93 @@
         <title>씨네21 ─ 리뷰 ─ 박평식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 17:45:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 05:38:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[애프터: 관계의 함정
-			(2021)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=58569</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=58569</guid>
-            <pubDate>Fri, 29 Oct 2021 17:43:44 GMT</pubDate>
+            <title><![CDATA[이터널스
+			(2020)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=56887</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=56887</guid>
+            <pubDate>Fri, 05 Nov 2021 05:38:31 GMT</pubDate>
             <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=58569">애프터: 관계의 함정</a>
-			<span class="year">(2021)</span>
+			<a href="/movie/info/?movie_id=56887">이터널스</a>
+			<span class="year">(2020)</span>
 		</div>
 		<div class="rating_area">
-			<div class="rating"><div class="rating_on" style="width:20%"></div></div>
-			<span class="num">2</span>
+			<div class="rating"><div class="rating_on" style="width:60%"></div></div>
+			<span class="num">6</span>
 		</div>
-		<div class="review_txt">갈수록 곤죽</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1018/14_12_19__616d02338cd02[F230,329].jpg" length="0" type="image/jpg"/>
+		<div class="review_txt">명상가의 장대하고 장황한 과시욕</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1026/09_58_53__617752cdd8253[F230,329].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[세버그
-			(2019)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=58517</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=58517</guid>
-            <pubDate>Fri, 29 Oct 2021 17:43:44 GMT</pubDate>
+            <title><![CDATA[강릉
+			(2021)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=58360</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=58360</guid>
+            <pubDate>Fri, 05 Nov 2021 05:38:31 GMT</pubDate>
             <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=58517">세버그</a>
-			<span class="year">(2019)</span>
+			<a href="/movie/info/?movie_id=58360">강릉</a>
+			<span class="year">(2021)</span>
 		</div>
 		<div class="rating_area">
 			<div class="rating"><div class="rating_on" style="width:50%"></div></div>
 			<span class="num">5</span>
 		</div>
-		<div class="review_txt">픽션이 팩트의 발목을 잡으면</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1007/10_03_56__615e477c1c3b1[F230,329].jpg" length="0" type="image/jpg"/>
+		<div class="review_txt">‘묵은 주먹’에도 햇살이</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1022/58360_61721e17135dd[F230,329].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[크림
-			(2021)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=58603</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=58603</guid>
-            <pubDate>Fri, 29 Oct 2021 17:43:44 GMT</pubDate>
+            <title><![CDATA[러브 어페어: 우리가 말하는 것, 우리가 하는 것
+			(2020)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=58592</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=58592</guid>
+            <pubDate>Fri, 05 Nov 2021 05:38:31 GMT</pubDate>
             <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=58603">크림</a>
+			<a href="/movie/info/?movie_id=58592">러브 어페어: 우리가 말하는 것, 우리가 하는 것</a>
+			<span class="year">(2020)</span>
+		</div>
+		<div class="rating_area">
+			<div class="rating"><div class="rating_on" style="width:70%"></div></div>
+			<span class="num">7</span>
+		</div>
+		<div class="review_txt">끌림과 엉킴, 그 요사스런 감정의 프리즘</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1025/58592_6176689a2464d[F230,329].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고양이에게 밥을 주지 마세요
+			(2020)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=56765</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=56765</guid>
+            <pubDate>Fri, 05 Nov 2021 05:38:31 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="title">
+			<a href="/movie/info/?movie_id=56765">고양이에게 밥을 주지 마세요</a>
+			<span class="year">(2020)</span>
+		</div>
+		<div class="rating_area">
+			<div class="rating"><div class="rating_on" style="width:60%"></div></div>
+			<span class="num">6</span>
+		</div>
+		<div class="review_txt">내가 굶어도 너는 뛰기를</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1018/13_28_01__616cf7d127c47[F230,329].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[왕십리 김종분
+			(2021)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=58577</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=58577</guid>
+            <pubDate>Fri, 05 Nov 2021 05:38:31 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="title">
+			<a href="/movie/info/?movie_id=58577">왕십리 김종분</a>
 			<span class="year">(2021)</span>
 		</div>
 		<div class="rating_area">
 			<div class="rating"><div class="rating_on" style="width:60%"></div></div>
 			<span class="num">6</span>
 		</div>
-		<div class="review_txt">필링의 두께와 맛에 집중한 제빵사</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1018/58603_616cc70b8f734[F230,329].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퍼스트 카우
-			(2019)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=58537</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=58537</guid>
-            <pubDate>Fri, 29 Oct 2021 17:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=58537">퍼스트 카우</a>
-			<span class="year">(2019)</span>
-		</div>
-		<div class="rating_area">
-			<div class="rating"><div class="rating_on" style="width:70%"></div></div>
-			<span class="num">7</span>
-		</div>
-		<div class="review_txt">풍경과 온도. 우정은 서로 닮아가는 일</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1008/17_05_37__615ffbd191c33[F230,329].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스티브 맥퀸: 더 맨 앤 르망
-			(2015)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=58602</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=58602</guid>
-            <pubDate>Sun, 24 Oct 2021 05:38:10 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=58602">스티브 맥퀸: 더 맨 앤 르망</a>
-			<span class="year">(2015)</span>
-		</div>
-		<div class="rating_area">
-			<div class="rating"><div class="rating_on" style="width:60%"></div></div>
-			<span class="num">6</span>
-		</div>
-		<div class="review_txt">야심과 긍지와 오만을 엔진으로</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1018/13_12_57__616cf449ebf87[F230,329].jpg" length="0" type="image/jpg"/>
+		<div class="review_txt">애통과 위로와 나눔의 30년</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1027/10_42_39__6178ae8f6ae0b[F230,329].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
