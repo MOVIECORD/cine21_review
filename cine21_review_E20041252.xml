@@ -4,93 +4,93 @@
         <title>씨네21 ─ 리뷰 ─ 박평식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Nov 2021 05:40:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 17:44:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[이터널스
+            <title><![CDATA[행복의 속도
 			(2020)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=56887</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=56887</guid>
-            <pubDate>Fri, 05 Nov 2021 05:38:31 GMT</pubDate>
+            <link>http://m.cine21.com/movie/info/?movie_id=58621</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=58621</guid>
+            <pubDate>Sat, 13 Nov 2021 17:43:58 GMT</pubDate>
             <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=56887">이터널스</a>
+			<a href="/movie/info/?movie_id=58621">행복의 속도</a>
 			<span class="year">(2020)</span>
 		</div>
 		<div class="rating_area">
 			<div class="rating"><div class="rating_on" style="width:60%"></div></div>
 			<span class="num">6</span>
 		</div>
-		<div class="review_txt">명상가의 장대하고 장황한 과시욕</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1026/09_58_53__617752cdd8253[F230,329].jpg" length="0" type="image/jpg"/>
+		<div class="review_txt">짊었으나 누리는 삶이려니</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1027/14_21_41__6178e1e5f3e67[F230,329].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[강릉
+            <title><![CDATA[디어 에반 핸슨
 			(2021)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=58360</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=58360</guid>
-            <pubDate>Fri, 05 Nov 2021 05:38:31 GMT</pubDate>
+            <link>http://m.cine21.com/movie/info/?movie_id=58595</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=58595</guid>
+            <pubDate>Sat, 13 Nov 2021 17:43:58 GMT</pubDate>
             <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=58360">강릉</a>
+			<a href="/movie/info/?movie_id=58595">디어 에반 핸슨</a>
 			<span class="year">(2021)</span>
 		</div>
 		<div class="rating_area">
 			<div class="rating"><div class="rating_on" style="width:50%"></div></div>
 			<span class="num">5</span>
 		</div>
-		<div class="review_txt">‘묵은 주먹’에도 햇살이</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1108/12_27_53__61889939088fb[F230,329].jpg" length="0" type="image/jpg"/>
+		<div class="review_txt">억지와 강요에 심통이 슬슬</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1013/58595_616641a896c13[F230,329].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[러브 어페어: 우리가 말하는 것, 우리가 하는 것
-			(2020)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=58592</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=58592</guid>
-            <pubDate>Fri, 05 Nov 2021 05:38:31 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=58592">러브 어페어: 우리가 말하는 것, 우리가 하는 것</a>
-			<span class="year">(2020)</span>
-		</div>
-		<div class="rating_area">
-			<div class="rating"><div class="rating_on" style="width:70%"></div></div>
-			<span class="num">7</span>
-		</div>
-		<div class="review_txt">끌림과 엉킴, 그 요사스런 감정의 프리즘</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1025/58592_6176689a2464d[F230,329].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고양이에게 밥을 주지 마세요
-			(2020)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=56765</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=56765</guid>
-            <pubDate>Fri, 05 Nov 2021 05:38:31 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=56765">고양이에게 밥을 주지 마세요</a>
-			<span class="year">(2020)</span>
-		</div>
-		<div class="rating_area">
-			<div class="rating"><div class="rating_on" style="width:60%"></div></div>
-			<span class="num">6</span>
-		</div>
-		<div class="review_txt">내가 굶어도 너는 뛰기를</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1018/13_28_01__616cf7d127c47[F230,329].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왕십리 김종분
+            <title><![CDATA[송해 1927
 			(2021)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=58577</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=58577</guid>
-            <pubDate>Fri, 05 Nov 2021 05:38:31 GMT</pubDate>
+            <link>http://m.cine21.com/movie/info/?movie_id=58567</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=58567</guid>
+            <pubDate>Sat, 13 Nov 2021 17:43:58 GMT</pubDate>
             <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=58577">왕십리 김종분</a>
+			<a href="/movie/info/?movie_id=58567">송해 1927</a>
 			<span class="year">(2021)</span>
 		</div>
 		<div class="rating_area">
 			<div class="rating"><div class="rating_on" style="width:60%"></div></div>
 			<span class="num">6</span>
 		</div>
-		<div class="review_txt">애통과 위로와 나눔의 30년</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1027/10_42_39__6178ae8f6ae0b[F230,329].jpg" length="0" type="image/jpg"/>
+		<div class="review_txt">대중문화의 바다와 개인사의 해일</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1020/11_35_12__616f80602926c[F230,329].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아담스 패밀리 2
+			(2021)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=58607</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=58607</guid>
+            <pubDate>Sat, 13 Nov 2021 17:43:58 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="title">
+			<a href="/movie/info/?movie_id=58607">아담스 패밀리 2</a>
+			<span class="year">(2021)</span>
+		</div>
+		<div class="rating_area">
+			<div class="rating"><div class="rating_on" style="width:50%"></div></div>
+			<span class="num">5</span>
+		</div>
+		<div class="review_txt">낡고 하찮은 유전자 놀이</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1110/58607_618b69de28805[F230,329].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프렌치 디스패치
+			(2021)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=58296</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=58296</guid>
+            <pubDate>Sat, 13 Nov 2021 17:43:58 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="title">
+			<a href="/movie/info/?movie_id=58296">프렌치 디스패치</a>
+			<span class="year">(2021)</span>
+		</div>
+		<div class="rating_area">
+			<div class="rating"><div class="rating_on" style="width:70%"></div></div>
+			<span class="num">7</span>
+		</div>
+		<div class="review_txt">또다시 설렘과 들뜸과 흐뭇함을</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1021/58296_6170fe7a2742f[F230,329].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
