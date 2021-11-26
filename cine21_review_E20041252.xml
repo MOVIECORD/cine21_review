@@ -4,93 +4,93 @@
         <title>씨네21 ─ 리뷰 ─ 박평식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 05:39:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 17:45:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[파워 오브 도그
-			(2021)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=58732</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=58732</guid>
-            <pubDate>Sat, 20 Nov 2021 05:38:10 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=58732">파워 오브 도그</a>
-			<span class="year">(2021)</span>
-		</div>
-		<div class="rating_area">
-			<div class="rating"><div class="rating_on" style="width:80%"></div></div>
-			<span class="num">8</span>
-		</div>
-		<div class="review_txt">냉혹한 심리 스럴러이자 우아한 고딕 멜로</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1119/58732_6196f8feb0417[F230,329].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라임크라임
+            <title><![CDATA[리유니언
 			(2020)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=57180</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=57180</guid>
-            <pubDate>Sat, 20 Nov 2021 05:38:10 GMT</pubDate>
+            <link>http://m.cine21.com/movie/info/?movie_id=58643</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=58643</guid>
+            <pubDate>Fri, 26 Nov 2021 17:45:17 GMT</pubDate>
             <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=57180">라임크라임</a>
-			<span class="year">(2020)</span>
-		</div>
-		<div class="rating_area">
-			<div class="rating"><div class="rating_on" style="width:60%"></div></div>
-			<span class="num">6</span>
-		</div>
-		<div class="review_txt">들썩이며 요동치는 마음으로</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1109/14_46_44__618a0b446ca39[F230,329].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[킬링 카인드: 킬러의 수제자
-			(2021)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=58520</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=58520</guid>
-            <pubDate>Sat, 20 Nov 2021 05:38:10 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=58520">킬링 카인드: 킬러의 수제자</a>
-			<span class="year">(2021)</span>
-		</div>
-		<div class="rating_area">
-			<div class="rating"><div class="rating_on" style="width:40%"></div></div>
-			<span class="num">4</span>
-		</div>
-		<div class="review_txt">골병과 고질병</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1119/58520_619700810d51b[F230,329].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무녀도
-			(2017)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=56325</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=56325</guid>
-            <pubDate>Sat, 20 Nov 2021 05:38:10 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=56325">무녀도</a>
-			<span class="year">(2017)</span>
-		</div>
-		<div class="rating_area">
-			<div class="rating"><div class="rating_on" style="width:60%"></div></div>
-			<span class="num">6</span>
-		</div>
-		<div class="review_txt">부족해도 크로스오버 시도에 주목</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1103/15_55_25__6182325d23718[F230,329].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메이드 인 이태리
-			(2020)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=56771</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=56771</guid>
-            <pubDate>Sat, 20 Nov 2021 05:38:10 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=56771">메이드 인 이태리</a>
+			<a href="/movie/info/?movie_id=58643">리유니언</a>
 			<span class="year">(2020)</span>
 		</div>
 		<div class="rating_area">
 			<div class="rating"><div class="rating_on" style="width:50%"></div></div>
 			<span class="num">5</span>
 		</div>
-		<div class="review_txt">덜 익은 파스타에 설탕만</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1104/56771_6183827d3573a[F230,329].jpg" length="0" type="image/jpg"/>
+		<div class="review_txt">상투성과 혐오감으로 옥죄기</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1101/11_08_45__617f4c2d53e88[F230,329].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[태일이
+			(2020)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=54052</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=54052</guid>
+            <pubDate>Fri, 26 Nov 2021 17:45:17 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="title">
+			<a href="/movie/info/?movie_id=54052">태일이</a>
+			<span class="year">(2020)</span>
+		</div>
+		<div class="rating_area">
+			<div class="rating"><div class="rating_on" style="width:60%"></div></div>
+			<span class="num">6</span>
+		</div>
+		<div class="review_txt">청년 태일이와 소년 재명이가 꿈꾼 세상은</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1110/14_47_20__618b5ce8005bf[F230,329].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로그북
+			(2020)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=58706</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=58706</guid>
+            <pubDate>Fri, 26 Nov 2021 17:45:17 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="title">
+			<a href="/movie/info/?movie_id=58706">로그북</a>
+			<span class="year">(2020)</span>
+		</div>
+		<div class="rating_area">
+			<div class="rating"><div class="rating_on" style="width:60%"></div></div>
+			<span class="num">6</span>
+		</div>
+		<div class="review_txt">슬픈 자맥질, 아니 숭고한 사투</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1110/58706_618b1cd1636e9[F230,329].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고스트버스터즈 라이즈
+			(2020)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=55616</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=55616</guid>
+            <pubDate>Fri, 26 Nov 2021 17:45:17 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="title">
+			<a href="/movie/info/?movie_id=55616">고스트버스터즈 라이즈</a>
+			<span class="year">(2020)</span>
+		</div>
+		<div class="rating_area">
+			<div class="rating"><div class="rating_on" style="width:50%"></div></div>
+			<span class="num">5</span>
+		</div>
+		<div class="review_txt">구수하거나 구리거나</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1111/14_53_30__618cafda24139[F230,329].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[앰뷸런스
+			(2020)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=58649</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=58649</guid>
+            <pubDate>Fri, 26 Nov 2021 17:45:17 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="title">
+			<a href="/movie/info/?movie_id=58649">앰뷸런스</a>
+			<span class="year">(2020)</span>
+		</div>
+		<div class="rating_area">
+			<div class="rating"><div class="rating_on" style="width:50%"></div></div>
+			<span class="num">5</span>
+		</div>
+		<div class="review_txt">생중계치곤 헐겁고 느긋해</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1111/13_45_39__618c9ff3d2082[F230,329].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
