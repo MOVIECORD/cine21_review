@@ -4,93 +4,93 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 05:36:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 17:43:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[매트릭스: 리저렉션
-			(2021) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=58671</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=58671</guid>
-            <pubDate>Wed, 29 Dec 2021 05:35:06 GMT</pubDate>
+            <title><![CDATA[전장의 피아니스트
+			(2020) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=57925</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=57925</guid>
+            <pubDate>Thu, 30 Dec 2021 17:43:46 GMT</pubDate>
             <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=58671">매트릭스: 리저렉션</a>
+			<a href="/movie/info/?movie_id=57925">전장의 피아니스트</a>
+			<span class="year">(2020)</span>
+		</div>
+		<div class="rating_area">
+			<div class="rating"><div class="rating_on" style="width:60%"></div></div>
+			<span class="num">6</span>
+		</div>
+		<div class="review_txt">음악과 책의 비명횡사라니</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1229/10_15_20__61cbb6a832ec9[F230,329].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피드백
+			(2018) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=58759</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=58759</guid>
+            <pubDate>Thu, 30 Dec 2021 17:43:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="title">
+			<a href="/movie/info/?movie_id=58759">피드백</a>
+			<span class="year">(2018)</span>
+		</div>
+		<div class="rating_area">
+			<div class="rating"><div class="rating_on" style="width:50%"></div></div>
+			<span class="num">5</span>
+		</div>
+		<div class="review_txt">바퀴벌레를 망치로 잡으려면</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/movie/2021/1215/18_13_51__61b9b1cf2c1b7[F230,329].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해피 뉴 이어
+			(2021) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=57948</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=57948</guid>
+            <pubDate>Thu, 30 Dec 2021 17:43:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="title">
+			<a href="/movie/info/?movie_id=57948">해피 뉴 이어</a>
 			<span class="year">(2021)</span>
 		</div>
 		<div class="rating_area">
-			<div class="rating"><div class="rating_on" style="width:50%"></div></div>
-			<span class="num">5</span>
+			<div class="rating"><div class="rating_on" style="width:40%"></div></div>
+			<span class="num">4</span>
 		</div>
-		<div class="review_txt">주절주절, 죽은 나무에 플라스틱 꽃</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1213/58671_61b69ee23a783[F230,329].jpg" length="0" type="image/jpg"/>
+		<div class="review_txt">비단주머니에 고구마</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1213/11_07_08__61b6aacc130e8[F230,329].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[램
-			(2020) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=58734</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=58734</guid>
-            <pubDate>Wed, 29 Dec 2021 05:35:06 GMT</pubDate>
+            <title><![CDATA[해탄적일천
+			(1983) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=16676</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=16676</guid>
+            <pubDate>Thu, 30 Dec 2021 17:43:46 GMT</pubDate>
             <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=58734">램</a>
-			<span class="year">(2020)</span>
+			<a href="/movie/info/?movie_id=16676">해탄적일천</a>
+			<span class="year">(1983)</span>
+		</div>
+		<div class="rating_area">
+			<div class="rating"><div class="rating_on" style="width:70%"></div></div>
+			<span class="num">7</span>
+		</div>
+		<div class="review_txt">통속을 녹인 진정성에 미학을 얹다</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1206/16676_61ad78ad91211[F230,329].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[씽2게더
+			(2021) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=58140</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=58140</guid>
+            <pubDate>Thu, 30 Dec 2021 17:43:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="title">
+			<a href="/movie/info/?movie_id=58140">씽2게더</a>
+			<span class="year">(2021)</span>
 		</div>
 		<div class="rating_area">
 			<div class="rating"><div class="rating_on" style="width:60%"></div></div>
 			<span class="num">6</span>
 		</div>
-		<div class="review_txt">괴이하고 서늘하고 우스꽝스러운</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1208/11_50_11__61b01d634ec25[F230,329].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사울 레이터: 인 노 그레이트 허리
-			(2013) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=58768</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=58768</guid>
-            <pubDate>Wed, 29 Dec 2021 05:35:06 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=58768">사울 레이터: 인 노 그레이트 허리</a>
-			<span class="year">(2013)</span>
-		</div>
-		<div class="rating_area">
-			<div class="rating"><div class="rating_on" style="width:60%"></div></div>
-			<span class="num">6</span>
-		</div>
-		<div class="review_txt">어슬렁이며 담담하고 어렴풋이 셔터를</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1215/11_37_56__61b9550419498[F230,329].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사막을 건너 호수를 지나
-			(2019) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=55255</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=55255</guid>
-            <pubDate>Wed, 29 Dec 2021 05:35:06 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=55255">사막을 건너 호수를 지나</a>
-			<span class="year">(2019)</span>
-		</div>
-		<div class="rating_area">
-			<div class="rating"><div class="rating_on" style="width:50%"></div></div>
-			<span class="num">5</span>
-		</div>
-		<div class="review_txt">뜻깊은 여행, 뜻 모를 편집</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1130/17_33_42__61a5e1e6521cf[F230,329].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노웨어 스페셜
-			(2020) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=58749</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=58749</guid>
-            <pubDate>Wed, 29 Dec 2021 05:35:06 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=58749">노웨어 스페셜</a>
-			<span class="year">(2020)</span>
-		</div>
-		<div class="rating_area">
-			<div class="rating"><div class="rating_on" style="width:60%"></div></div>
-			<span class="num">6</span>
-		</div>
-		<div class="review_txt">웃고 있는 영정사진을 보는 마음</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1229/15_46_57__61cc046168ba3[F230,329].jpg" length="0" type="image/jpg"/>
+		<div class="review_txt">얼떨결에 덩달아 흥얼흥얼</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1222/16_16_36__61c2d0d433ae8[F230,329].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사돈의 팔촌
