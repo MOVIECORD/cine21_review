@@ -4,7 +4,7 @@
         <title>씨네21 ─ 리뷰 ─ 박평식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 17:45:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 05:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -90,7 +90,7 @@
 			<span class="num">6</span>
 		</div>
 		<div class="review_txt">웃고 있는 영정사진을 보는 마음</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1209/15_30_48__61b1a2986b24b[F230,329].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1229/15_46_57__61cc046168ba3[F230,329].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
