@@ -4,93 +4,93 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 05:37:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 17:47:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[웨스트 사이드 스토리
-			(2020) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=54911</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=54911</guid>
-            <pubDate>Fri, 07 Jan 2022 05:35:53 GMT</pubDate>
+            <title><![CDATA[클리포드 더 빅 레드 독
+			(2021) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=58720</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=58720</guid>
+            <pubDate>Thu, 13 Jan 2022 17:45:54 GMT</pubDate>
             <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=54911">웨스트 사이드 스토리</a>
-			<span class="year">(2020)</span>
-		</div>
-		<div class="rating_area">
-			<div class="rating"><div class="rating_on" style="width:70%"></div></div>
-			<span class="num">7</span>
-		</div>
-		<div class="review_txt">50년 연출인생의 마지막 퍼즐과 시대성</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1206/54911_61ad99a40f803[F230,329].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[특송
-			(2019) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=54849</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=54849</guid>
-            <pubDate>Fri, 07 Jan 2022 05:35:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=54849">특송</a>
-			<span class="year">(2019)</span>
+			<a href="/movie/info/?movie_id=58720">클리포드 더 빅 레드 독</a>
+			<span class="year">(2021)</span>
 		</div>
 		<div class="rating_area">
 			<div class="rating"><div class="rating_on" style="width:50%"></div></div>
 			<span class="num">5</span>
 		</div>
-		<div class="review_txt">베스트 드라이버, 워스트 로드웨이</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1222/13_51_31__61c2aed38dabd[F230,329].jpg" length="0" type="image/jpg"/>
+		<div class="review_txt">더빙판을 고집하는 이유가 있었군</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2022/0112/58720_61de6cab783fb[F230,329].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[비올레타
-			(2011) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=33562</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=33562</guid>
-            <pubDate>Fri, 07 Jan 2022 05:35:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=33562">비올레타</a>
-			<span class="year">(2011)</span>
-		</div>
-		<div class="rating_area">
-			<div class="rating"><div class="rating_on" style="width:60%"></div></div>
-			<span class="num">6</span>
-		</div>
-		<div class="review_txt">만행과 고백. 그 어머니에 그 딸</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1215/33562_61b93bc9d1a25[F230,329].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프랑스
+            <title><![CDATA[레이징 파이어
 			(2021) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=58527</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=58527</guid>
-            <pubDate>Fri, 07 Jan 2022 05:35:53 GMT</pubDate>
+            <link>http://m.cine21.com/movie/info/?movie_id=58669</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=58669</guid>
+            <pubDate>Thu, 13 Jan 2022 17:45:54 GMT</pubDate>
             <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=58527">프랑스</a>
+			<a href="/movie/info/?movie_id=58669">레이징 파이어</a>
 			<span class="year">(2021)</span>
 		</div>
 		<div class="rating_area">
-			<div class="rating"><div class="rating_on" style="width:60%"></div></div>
-			<span class="num">6</span>
+			<div class="rating"><div class="rating_on" style="width:50%"></div></div>
+			<span class="num">5</span>
 		</div>
-		<div class="review_txt">야유와 연민과 혼돈의 클로즈업</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1222/11_47_16__61c291b45ceda[F230,329].jpg" length="0" type="image/jpg"/>
+		<div class="review_txt">진목승 감독의 활화산 피날레</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1213/58669_61b6a4caeb905[F230,329].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[전장의 피아니스트
+            <title><![CDATA[걸 위드 더 카메라
 			(2020) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=57925</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=57925</guid>
-            <pubDate>Thu, 30 Dec 2021 17:43:46 GMT</pubDate>
+            <link>http://m.cine21.com/movie/info/?movie_id=57286</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=57286</guid>
+            <pubDate>Thu, 13 Jan 2022 17:45:54 GMT</pubDate>
             <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=57925">전장의 피아니스트</a>
+			<a href="/movie/info/?movie_id=57286">걸 위드 더 카메라</a>
 			<span class="year">(2020)</span>
+		</div>
+		<div class="rating_area">
+			<div class="rating"><div class="rating_on" style="width:50%"></div></div>
+			<span class="num">5</span>
+		</div>
+		<div class="review_txt">누구는 어색하게 겉돌고</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1215/57286_61b98a8f8820d[F230,329].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미스터 앤 미세스 아델만
+			(2017) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=50543</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=50543</guid>
+            <pubDate>Thu, 13 Jan 2022 17:45:54 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="title">
+			<a href="/movie/info/?movie_id=50543">미스터 앤 미세스 아델만</a>
+			<span class="year">(2017)</span>
 		</div>
 		<div class="rating_area">
 			<div class="rating"><div class="rating_on" style="width:60%"></div></div>
 			<span class="num">6</span>
 		</div>
-		<div class="review_txt">음악과 책의 비명횡사라니</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1229/10_15_20__61cbb6a832ec9[F230,329].jpg" length="0" type="image/jpg"/>
+		<div class="review_txt">환상이 깨진 뒤에도 돌진하는 사랑은</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1215/11_55_56__61b9593c98e4c[F230,329].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레지던트 이블: 라쿤시티
+			(2021) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=58782</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=58782</guid>
+            <pubDate>Thu, 13 Jan 2022 17:45:54 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="title">
+			<a href="/movie/info/?movie_id=58782">레지던트 이블: 라쿤시티</a>
+			<span class="year">(2021)</span>
+		</div>
+		<div class="rating_area">
+			<div class="rating"><div class="rating_on" style="width:30%"></div></div>
+			<span class="num">3</span>
+		</div>
+		<div class="review_txt">좀비가 재롱을 부리면</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2022/0110/11_48_07__61db9e677d09f[F230,329].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사돈의 팔촌
