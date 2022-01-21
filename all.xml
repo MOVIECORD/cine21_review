@@ -4,93 +4,93 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 17:38:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 05:33:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[클리포드 더 빅 레드 독
-			(2021) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=58720</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=58720</guid>
-            <pubDate>Thu, 13 Jan 2022 17:45:54 GMT</pubDate>
+            <title><![CDATA[인어가 잠든 집
+			(2018) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=54028</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=54028</guid>
+            <pubDate>Fri, 21 Jan 2022 05:32:38 GMT</pubDate>
             <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=58720">클리포드 더 빅 레드 독</a>
-			<span class="year">(2021)</span>
+			<a href="/movie/info/?movie_id=54028">인어가 잠든 집</a>
+			<span class="year">(2018)</span>
 		</div>
 		<div class="rating_area">
-			<div class="rating"><div class="rating_on" style="width:50%"></div></div>
-			<span class="num">5</span>
+			<div class="rating"><div class="rating_on" style="width:60%"></div></div>
+			<span class="num">6</span>
 		</div>
-		<div class="review_txt">더빙판을 고집하는 이유가 있었군</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2022/0112/58720_61de6cab783fb[F230,329].jpg" length="0" type="image/jpg"/>
+		<div class="review_txt">잘 추렸으나 폭은 좁아졌어</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2022/0105/54028_61d53bca1ca6b[F230,329].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[레이징 파이어
-			(2021) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=58669</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=58669</guid>
-            <pubDate>Thu, 13 Jan 2022 17:45:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=58669">레이징 파이어</a>
-			<span class="year">(2021)</span>
-		</div>
-		<div class="rating_area">
-			<div class="rating"><div class="rating_on" style="width:50%"></div></div>
-			<span class="num">5</span>
-		</div>
-		<div class="review_txt">진목승 감독의 활화산 피날레</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1213/58669_61b6a4caeb905[F230,329].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[걸 위드 더 카메라
+            <title><![CDATA[존경하고 사랑하는 국민 여러분
 			(2020) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=57286</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=57286</guid>
-            <pubDate>Thu, 13 Jan 2022 17:45:54 GMT</pubDate>
+            <link>http://m.cine21.com/movie/info/?movie_id=55627</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=55627</guid>
+            <pubDate>Fri, 21 Jan 2022 05:32:38 GMT</pubDate>
             <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=57286">걸 위드 더 카메라</a>
+			<a href="/movie/info/?movie_id=55627">존경하고 사랑하는 국민 여러분</a>
 			<span class="year">(2020)</span>
 		</div>
 		<div class="rating_area">
 			<div class="rating"><div class="rating_on" style="width:50%"></div></div>
 			<span class="num">5</span>
 		</div>
-		<div class="review_txt">누구는 어색하게 겉돌고</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1215/57286_61b98a8f8820d[F230,329].jpg" length="0" type="image/jpg"/>
+		<div class="review_txt">인물 탐구가 아닌 정치사회사 재탕</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1130/55627_61a5c5e848ac8[F230,329].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미스터 앤 미세스 아델만
-			(2017) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=50543</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=50543</guid>
-            <pubDate>Thu, 13 Jan 2022 17:45:54 GMT</pubDate>
+            <title><![CDATA[해적: 도깨비 깃발
+			(2020) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=56540</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=56540</guid>
+            <pubDate>Fri, 21 Jan 2022 05:32:38 GMT</pubDate>
             <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=50543">미스터 앤 미세스 아델만</a>
-			<span class="year">(2017)</span>
+			<a href="/movie/info/?movie_id=56540">해적: 도깨비 깃발</a>
+			<span class="year">(2020)</span>
+		</div>
+		<div class="rating_area">
+			<div class="rating"><div class="rating_on" style="width:40%"></div></div>
+			<span class="num">4</span>
+		</div>
+		<div class="review_txt">물장구치며 오줌 누는 아이처럼</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2022/0114/09_57_46__61e0ca8a9e1e0[F230,329].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임신한 나무와 도깨비
+			(2019) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=55440</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=55440</guid>
+            <pubDate>Fri, 21 Jan 2022 05:32:38 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="title">
+			<a href="/movie/info/?movie_id=55440">임신한 나무와 도깨비</a>
+			<span class="year">(2019)</span>
 		</div>
 		<div class="rating_area">
 			<div class="rating"><div class="rating_on" style="width:60%"></div></div>
 			<span class="num">6</span>
 		</div>
-		<div class="review_txt">환상이 깨진 뒤에도 돌진하는 사랑은</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2021/1215/11_55_56__61b9593c98e4c[F230,329].jpg" length="0" type="image/jpg"/>
+		<div class="review_txt">마모된 몸뚱이가 품은 굴욕의 역사</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2022/0104/55440_61d3fa0ddb1c4[F230,329].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[레지던트 이블: 라쿤시티
-			(2021) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=58782</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=58782</guid>
-            <pubDate>Thu, 13 Jan 2022 17:45:54 GMT</pubDate>
+            <title><![CDATA[원 세컨드
+			(2019) (씨네21 ─ 리뷰 ─ 박평식)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=54435</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=54435</guid>
+            <pubDate>Fri, 21 Jan 2022 05:32:38 GMT</pubDate>
             <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=58782">레지던트 이블: 라쿤시티</a>
-			<span class="year">(2021)</span>
+			<a href="/movie/info/?movie_id=54435">원 세컨드</a>
+			<span class="year">(2019)</span>
 		</div>
 		<div class="rating_area">
-			<div class="rating"><div class="rating_on" style="width:30%"></div></div>
-			<span class="num">3</span>
+			<div class="rating"><div class="rating_on" style="width:60%"></div></div>
+			<span class="num">6</span>
 		</div>
-		<div class="review_txt">좀비가 재롱을 부리면</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2022/0114/10_12_18__61e0cdf2bafec[F230,329].jpg" length="0" type="image/jpg"/>
+		<div class="review_txt">우회하는 감독의 열정이자 향수, 탄식</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2022/0114/09_45_42__61e0c7b6ec59d[F230,329].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사돈의 팔촌
