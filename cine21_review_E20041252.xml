@@ -4,9 +4,26 @@
         <title>씨네21 ─ 리뷰 ─ 박평식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 17:38:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 05:32:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코만도
+			(2021)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=58999</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=58999</guid>
+            <pubDate>Thu, 24 Feb 2022 05:32:45 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="title">
+			<a href="/movie/info/?movie_id=58999">코만도</a>
+			<span class="year">(2021)</span>
+		</div>
+		<div class="rating_area">
+			<div class="rating"><div class="rating_on" style="width:30%"></div></div>
+			<span class="num">3</span>
+		</div>
+		<div class="review_txt">악랄하고 미련할 뿐</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2022/0224/13_47_20__62170dd856120[F230,329].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세라비: 다섯 번의 기적
 			(2020)]]></title>
@@ -74,23 +91,6 @@
 		</div>
 		<div class="review_txt">한 배우의 와신상담이자 고해성사</div>]]></content:encoded>
             <enclosure url="http://image.cine21.com/resize/cine21/poster/2022/0124/11_26_11__61ee0e43c6418[F230,329].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인민을 위해 복무하라
-			(2021)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=56859</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=56859</guid>
-            <pubDate>Fri, 18 Feb 2022 17:34:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=56859">인민을 위해 복무하라</a>
-			<span class="year">(2021)</span>
-		</div>
-		<div class="rating_area">
-			<div class="rating"><div class="rating_on" style="width:30%"></div></div>
-			<span class="num">3</span>
-		</div>
-		<div class="review_txt">사모님의 속사정</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2022/0207/56859_6200786061dab[F230,329].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
