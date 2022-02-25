@@ -4,9 +4,43 @@
         <title>씨네21 ─ 리뷰 ─ 박평식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 05:33:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 17:36:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나이트 레이더스
+			(2021)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=58913</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=58913</guid>
+            <pubDate>Fri, 25 Feb 2022 17:35:31 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="title">
+			<a href="/movie/info/?movie_id=58913">나이트 레이더스</a>
+			<span class="year">(2021)</span>
+		</div>
+		<div class="rating_area">
+			<div class="rating"><div class="rating_on" style="width:50%"></div></div>
+			<span class="num">5</span>
+		</div>
+		<div class="review_txt">단조롭고 당혹스런 디스토피아 악몽</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2022/0211/58913_6205b85c5c97c[F230,329].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소피의 세계
+			(2021)]]></title>
+            <link>http://m.cine21.com/movie/info/?movie_id=58629</link>
+            <guid>http://m.cine21.com/movie/info/?movie_id=58629</guid>
+            <pubDate>Fri, 25 Feb 2022 17:35:31 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="title">
+			<a href="/movie/info/?movie_id=58629">소피의 세계</a>
+			<span class="year">(2021)</span>
+		</div>
+		<div class="rating_area">
+			<div class="rating"><div class="rating_on" style="width:50%"></div></div>
+			<span class="num">5</span>
+		</div>
+		<div class="review_txt">홍상수 영화교실 줄반장</div>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2022/0215/10_12_24__620afdf88c095[F230,329].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코만도
 			(2021)]]></title>
@@ -57,40 +91,6 @@
 		</div>
 		<div class="review_txt">집요하고 냉랭하고 담담하게</div>]]></content:encoded>
             <enclosure url="http://image.cine21.com/resize/cine21/poster/2022/0209/17_50_20__6203804c081d7[F230,329].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리가 사랑이라고 믿는 것
-			(2019)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=56818</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=56818</guid>
-            <pubDate>Fri, 18 Feb 2022 17:34:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=56818">우리가 사랑이라고 믿는 것</a>
-			<span class="year">(2019)</span>
-		</div>
-		<div class="rating_area">
-			<div class="rating"><div class="rating_on" style="width:60%"></div></div>
-			<span class="num">6</span>
-		</div>
-		<div class="review_txt">떠난 마음과 묶인 마음의 아득함이란</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2022/0211/56818_6205ec95caf6c[F230,329].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피그
-			(2021)]]></title>
-            <link>http://m.cine21.com/movie/info/?movie_id=58240</link>
-            <guid>http://m.cine21.com/movie/info/?movie_id=58240</guid>
-            <pubDate>Fri, 18 Feb 2022 17:34:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="title">
-			<a href="/movie/info/?movie_id=58240">피그</a>
-			<span class="year">(2021)</span>
-		</div>
-		<div class="rating_area">
-			<div class="rating"><div class="rating_on" style="width:70%"></div></div>
-			<span class="num">7</span>
-		</div>
-		<div class="review_txt">한 배우의 와신상담이자 고해성사</div>]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2022/0124/11_26_11__61ee0e43c6418[F230,329].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
